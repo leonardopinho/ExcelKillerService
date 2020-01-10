@@ -1,0 +1,38 @@
+DATE: 10/01/2020 15:40:25
+Description: OnStart
+DATE: 10/01/2020 15:40:25
+Description: Length: 1
+DATE: 10/01/2020 15:40:25
+Description: Process started at: 10/01/2020 15:21:44 | End Hour: 10/01/2020 15:40:25 | Length: 1 | overdue: False
+DATE: 10/01/2020 15:40:25
+Description: End of process cleanup
+DATE: 10/01/2020 15:41:12
+Description: OnStart
+DATE: 10/01/2020 15:41:12
+Description: Length: 1
+DATE: 10/01/2020 15:41:12
+Description: Process started at: 10/01/2020 15:21:44 | End Hour: 10/01/2020 15:41:12 | Length: 1 | overdue: False
+DATE: 10/01/2020 15:41:12
+Description: End of process cleanup
+DATE: 10/01/2020 15:41:28
+Description: OnStart
+DATE: 10/01/2020 15:41:28
+Description: Length: 0
+DATE: 10/01/2020 15:42:01
+Description: OnStart
+DATE: 10/01/2020 15:42:01
+Description: Length: 0
+DATE: 10/01/2020 15:57:01
+Description: Length: 0
+DATE: 10/01/2020 16:12:01
+Description: Length: 1
+DATE: 10/01/2020 16:12:01
+Description: Process started at: 10/01/2020 16:06:02 | End Hour: 10/01/2020 16:12:01 | Length: 1 | overdue: False
+DATE: 10/01/2020 16:12:01
+Description: End of process cleanup
+DATE: 10/01/2020 16:27:01
+Description: Length: 1
+DATE: 10/01/2020 16:27:01
+Description: Process started at: 10/01/2020 16:06:02 | End Hour: 10/01/2020 16:27:01 | Length: 1 | overdue: False
+DATE: 10/01/2020 16:27:01
+Description: End of process cleanup

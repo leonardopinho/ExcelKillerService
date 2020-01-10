@@ -1,0 +1,159 @@
+﻿Instalando o assembly 'C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.InstallLog
+   assemblypath = C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.exe
+   logtoconsole = 
+Confirmando o assembly 'C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.InstallLog
+   assemblypath = C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.exe
+   logtoconsole = 
+Instalando o assembly 'C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.InstallLog
+   assemblypath = C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.exe
+   logtoconsole = 
+Instalando o serviço Gaia.Service.ClearExcel...
+Criando a origem de EventLog Gaia.Service.ClearExcel no log Application...
+Revertendo o assembly 'C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.InstallLog
+   assemblypath = C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.exe
+   logtoconsole = 
+Restaurando o log de eventos para o estado anterior da origem Gaia.Service.ClearExcel.
+Ocorreu uma exceção durante a fase de reversão do instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Fonte não encontrada, mas alguns ou todos os logs de evento não puderam ser pesquisados. Logs inacessíveis: Security.
+Ocorreu uma exceção durante a fase de reversão da instalação. Essa exceção será ignorada e a reversão continuará. Mas talvez o computador não reverta totalmente para o estado inicial após a conclusão da reversão.
+Instalando o assembly 'C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.InstallLog
+   assemblypath = C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.exe
+   logtoconsole = 
+Instalando o serviço Gaia.Service.ClearExcel...
+Criando a origem de EventLog Gaia.Service.ClearExcel no log Application...
+Revertendo o assembly 'C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.InstallLog
+   assemblypath = C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.exe
+   logtoconsole = 
+Restaurando o log de eventos para o estado anterior da origem Gaia.Service.ClearExcel.
+Ocorreu uma exceção durante a fase de reversão do instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Fonte não encontrada, mas alguns ou todos os logs de evento não puderam ser pesquisados. Logs inacessíveis: Security.
+Ocorreu uma exceção durante a fase de reversão da instalação. Essa exceção será ignorada e a reversão continuará. Mas talvez o computador não reverta totalmente para o estado inicial após a conclusão da reversão.
+Instalando o assembly 'C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.InstallLog
+   assemblypath = C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.exe
+   logtoconsole = 
+Instalando o serviço Gaia.Service.ClearExcel...
+Criando a origem de EventLog Gaia.Service.ClearExcel no log Application...
+Revertendo o assembly 'C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.InstallLog
+   assemblypath = C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.exe
+   logtoconsole = 
+Restaurando o log de eventos para o estado anterior da origem Gaia.Service.ClearExcel.
+Ocorreu uma exceção durante a fase de reversão do instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Fonte não encontrada, mas alguns ou todos os logs de evento não puderam ser pesquisados. Logs inacessíveis: Security.
+Ocorreu uma exceção durante a fase de reversão da instalação. Essa exceção será ignorada e a reversão continuará. Mas talvez o computador não reverta totalmente para o estado inicial após a conclusão da reversão.
+Instalando o assembly 'C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.InstallLog
+   assemblypath = C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.exe
+   logtoconsole = 
+Confirmando o assembly 'C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.InstallLog
+   assemblypath = C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.exe
+   logtoconsole = 
+Instalando o assembly 'C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.InstallLog
+   assemblypath = C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.exe
+   logtoconsole = 
+Instalando o serviço ClearExcel...
+Criando a origem de EventLog ClearExcel no log Application...
+Revertendo o assembly 'C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.InstallLog
+   assemblypath = C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.exe
+   logtoconsole = 
+Restaurando o log de eventos para o estado anterior da origem ClearExcel.
+Ocorreu uma exceção durante a fase de reversão do instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Fonte não encontrada, mas alguns ou todos os logs de evento não puderam ser pesquisados. Logs inacessíveis: Security.
+Ocorreu uma exceção durante a fase de reversão da instalação. Essa exceção será ignorada e a reversão continuará. Mas talvez o computador não reverta totalmente para o estado inicial após a conclusão da reversão.
+Instalando o assembly 'C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.InstallLog
+   assemblypath = C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.exe
+   logtoconsole = 
+Instalando o serviço ClearExcel...
+Criando a origem de EventLog ClearExcel no log Application...
+Revertendo o assembly 'C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.InstallLog
+   assemblypath = C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.exe
+   logtoconsole = 
+Restaurando o log de eventos para o estado anterior da origem ClearExcel.
+Ocorreu uma exceção durante a fase de reversão do instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Fonte não encontrada, mas alguns ou todos os logs de evento não puderam ser pesquisados. Logs inacessíveis: Security.
+Ocorreu uma exceção durante a fase de reversão da instalação. Essa exceção será ignorada e a reversão continuará. Mas talvez o computador não reverta totalmente para o estado inicial após a conclusão da reversão.
+Instalando o assembly 'C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.InstallLog
+   assemblypath = C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.exe
+   logtoconsole = 
+Instalando o serviço ClearExcel...
+Serviço ClearExcel foi instalado com êxito.
+Criando a origem de EventLog ClearExcel no log Application...
+Confirmando o assembly 'C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.InstallLog
+   assemblypath = C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.exe
+   logtoconsole = 
+Instalando o assembly 'C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.InstallLog
+   assemblypath = C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.exe
+   logtoconsole = 
+Instalando o serviço Gaia.Service.ClearExcel...
+Serviço Gaia.Service.ClearExcel foi instalado com êxito.
+Criando a origem de EventLog Gaia.Service.ClearExcel no log Application...
+Confirmando o assembly 'C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.InstallLog
+   assemblypath = C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.exe
+   logtoconsole = 
+Instalando o assembly 'C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.InstallLog
+   assemblypath = C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.exe
+   logtoconsole = 
+Instalando o serviço Gaia.Service.ClearExcel...
+Serviço Gaia.Service.ClearExcel foi instalado com êxito.
+Criando a origem de EventLog Gaia.Service.ClearExcel no log Application...
+Confirmando o assembly 'C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.exe'.
+Parâmetros afetados são:
+   i = 
+   logfile = C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.InstallLog
+   assemblypath = C:\Users\leona\source\repos\ClearExcelProcess\ClearExcelService\bin\Debug\ClearExcelService.exe
+   logtoconsole = 
